@@ -1,3 +1,5 @@
+rancher/rancher:v2.9-head
+
 drone/drone:2.24.0
 drone/drone-runner-docker:1.8.3
 appleboy/drone-ssh:1.7.6
@@ -53,4 +55,3 @@ netbirdio/netbird:0.27.10
 registry:2.8.3
 sonarqube:9.9.5-community
 threatbook/hfish-server:3.3.5
-rancher/rancher:v2.9-head
