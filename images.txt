@@ -4,7 +4,8 @@ appleboy/drone-ssh:1.7.6
 appleboy/drone-scp:1.6.14
 maven:3.9.7-eclipse-temurin-17
 drone/git:latest
-docker pull bitnami/elasticsearch:8.14.0
+
+bitnami/elasticsearch:8.14.0
 bitnami/kibana:8.14.0
 bitnami/logstash:8.14.0
 sebp/elk:8.13.4
@@ -13,8 +14,10 @@ bitnami/kafka:3.3.2
 sheepkiller/kafka-manager:stable
 bitnami/rabbitmq:3.12.14
 emqx:5.7.0
+
 bitnami/grafana:10.4.3
 bitnami/prometheus:2.52.1
+
 apache/apisix:3.9.1-debian
 haproxy:alpine3.20
 kong:3.7.0
@@ -23,6 +26,7 @@ jc21/nginx-proxy-manager:2.11.2
 apache/skywalking-oap-server:10.0.1-java17
 apache/skywalking-ui:10.0.1-java17
 apache/skywalking-java-agent:9.2.0-java17
+
 apache/shardingsphere-proxy:5.5.0
 bitnami/flink:1.19.0
 bitnami/mariadb:11.3.2
@@ -35,10 +39,12 @@ bitnami/redis-cluster:7.0.15
 redis/redis-stack:7.2.0-v10
 gitea/gitea:1.22.0
 bitnami/spark:3.5.1
+
 bitnami/java:17.0.11-12
 bitnami/node:16.20.2
 bitnami/node:22.2.0
 alibabadragonwell/dragonwell:17.0.11.0.12.9
+
 bitnami/git:2.45.2
 bitnami/jenkins:2.452.1
 bjdgyc/anylink:0.12.1
