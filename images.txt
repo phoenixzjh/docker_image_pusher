@@ -29,6 +29,7 @@ apache/skywalking-ui:10.0.1-java17
 apache/skywalking-java-agent:9.2.0-java17
 
 apache/shardingsphere-proxy:5.5.0
+bitnami/flink:1.19.0
 bitnami/mariadb:11.3.2
 bitnami/minio:2024.6.6
 bitnami/mongodb:7.0.11
@@ -38,6 +39,7 @@ bitnami/redis:7.0.15
 bitnami/redis-cluster:7.0.15
 redis/redis-stack:7.2.0-v10
 gitea/gitea:1.22.0
+bitnami/spark:3.5.1
 
 bitnami/java:17.0.11-12
 bitnami/node:16.20.2
@@ -50,6 +52,7 @@ bjdgyc/anylink:0.12.1
 easysoft/zentao:20.1.0
 elestio/trilium:v0.63.6
 netbirdio/netbird:0.27.10
+nyanmisaka/jellyfin:240401-amd64
 registry:2.8.3
 sonarqube:9.9.5-community
 threatbook/hfish-server:3.3.5
