@@ -28,7 +28,7 @@ jobs:
       run: |
         docker login -u $ALIYUN_REGISTRY_USER -p $ALIYUN_REGISTRY_PASSWORD $ALIYUN_REGISTRY
         for line in $(cat images.txt); do
-          if [[ -z "$line" ]]; then
+          if [ -z $line ]; then
             continue
           fi
           docker pull $line
