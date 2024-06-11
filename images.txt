@@ -1,4 +1,2 @@
 
-labring/kubernetes:v1.28.10
-labring/helm:v3.14.1
-labring/calico:3.26.4
+docker.io/istio/pilot:1.22.0
