@@ -1,4 +1,5 @@
 
-docker.io/grafana/grafana:10.4.0
-docker.io/grafana/loki:3.0.0
-prom/prometheus:v2.51.1
+docker.io/istio/examples-bookinfo-details-v1:1.19.1
+docker.io/istio/examples-bookinfo-productpage-v1:1.19.1
+docker.io/istio/examples-bookinfo-ratings-v1:1.19.1
+docker.io/istio/examples-bookinfo-reviews-v1:1.19.1
