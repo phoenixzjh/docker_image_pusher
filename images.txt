@@ -1,3 +1,2 @@
 
-docker.io/istio/pilot:1.22.0
-docker.io/istio/proxyv2:1.22.0
+docker.io/jaegertracing/all-in-one:1.56
