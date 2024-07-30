@@ -1,17 +1,2 @@
 
-docker.io/istio/pilot:1.22.0
-docker.io/istio/proxyv2:1.22.0
-
-docker.io/grafana/grafana:10.4.0
-docker.io/jaegertracing/all-in-one:1.56
-quay.io/kiali/kiali:v1.82
-docker.io/grafana/loki:3.0.0
-ghcr.io/prometheus-operator/prometheus-config-reloader:v0.72.0
-prom/prometheus:v2.51.1
-
-docker.io/istio/examples-bookinfo-details-v1:1.19.1
-docker.io/istio/examples-bookinfo-productpage-v1:1.19.1
-docker.io/istio/examples-bookinfo-ratings-v1:1.19.1
-docker.io/istio/examples-bookinfo-reviews-v1:1.19.1
-docker.io/istio/examples-bookinfo-reviews-v2:1.19.1
-docker.io/istio/examples-bookinfo-reviews-v3:1.19.1
+docker.io/labring/kubernetes:v1.29.0-4.3.7
