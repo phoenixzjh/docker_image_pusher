@@ -32,7 +32,7 @@ jobs:
             continue
           fi
           docker pull $line
-          image_name_tag=$(echo $line | awk -F'/' '{print $2}')
+          image_name_tag=$(echo $line | awk -F'/' '{print $NF}')
           new_image="$ALIYUN_REGISTRY/$ALIYUN_NAME_SPACE/$image_name_tag"
           echo "docker tag $image $new_image"
           docker tag $line $new_image
