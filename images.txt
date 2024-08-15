@@ -1,6 +1,9 @@
-docker.io/grafana/grafana:10.4.0
-docker.io/jaegertracing/all-in-one:1.56
-quay.io/kiali/kiali:v1.86
-docker.io/grafana/loki:3.0.0
-ghcr.io/prometheus-operator/prometheus-config-reloader:v0.72.0
-docker.io/prom/prometheus:v2.51.1
+docker.io/labring/kubernetes:v1.29.7-4.3.7
+docker.io/labring/calico:3.26.4
+docker.io/labring/helm:v3.14.0
+docker.io/labring/apisix:v3.8.0
+docker.io/labring/cilium:v1.16.0
+docker.io/labring/flannel:0.25.5
+docker.io/labring/nginx:v1.25.2
+docker.io/labring/prometheus:v2.49.1
+docker.io/labring/istio:v1.20.1
