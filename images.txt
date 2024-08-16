@@ -1,1 +1,1 @@
-docker.io/onlyoffice/documentserver:8.1
+docker.io/sebp/elk:8.15.0
