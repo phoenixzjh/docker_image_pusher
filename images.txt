@@ -1,1 +1,1 @@
-docker.io/sebp/elk:8.15.0
+ghcr.io/armbian/shallow/kernel-git-shallow-6.1:latest
